@@ -19,6 +19,7 @@ Coded in Visual Studio Code w/ Java
 - [x] Accurately functioning ball movement/redirection using trigonometry
 - [x] Keyboard input to move paddles up and down
 - [x] Game-Loop incorporation 
+- [x] Keeps track of score
 - [x] Ball deflect/miss detection 
 - [x] Win detection (Win at 11)
 - [ ] Online Multiplayer
