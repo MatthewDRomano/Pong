@@ -13,7 +13,6 @@ Coded in Visual Studio Code w/ Java
 |  ↓  | Move Down| Right  |
 |  W  | Move Up  |  Left  |
 |  S  | Move Down|  Left  |
-| --- | -------- | ------ |
 
 ## Features
 - [x] Display of Paddles and Ball
